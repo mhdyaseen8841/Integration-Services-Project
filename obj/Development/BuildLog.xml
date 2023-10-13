@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>DataFlowTaskDemo</Name>
-    <LastWriteTime>2023-10-11T11:30:06.6351939Z</LastWriteTime>
+    <LastWriteTime>2023-10-12T12:20:20.1799385Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -47,18 +47,98 @@
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>PercentageSampleDemo.dtsx</Name>
-      <LastWriteTime>2023-10-11T10:19:30.542939Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
       <Name>10_row_sample_demo.dtsx</Name>
       <LastWriteTime>2023-10-11T11:04:54.7887062Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>11_Union_all_Demo.dtsx</Name>
-      <LastWriteTime>2023-10-11T11:30:06.595962Z</LastWriteTime>
+      <LastWriteTime>2023-10-11T11:50:08.0042081Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>12_MergeDemo.dtsx</Name>
+      <LastWriteTime>2023-10-11T11:50:07.9823557Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>09_Percentage_SampleDemo.dtsx</Name>
+      <LastWriteTime>2023-10-11T10:19:30.542939Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>13_MulticastDemo.dtsx</Name>
+      <LastWriteTime>2023-10-11T12:16:00.6866946Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>14_conditionalsplitDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T04:39:16.6565091Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>15_AggrigateDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T04:39:16.624654Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>16_AuditDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T04:49:23.0828145Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>17_CountDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T05:09:10.70325Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>18_ExportColoumn.dtsx</Name>
+      <LastWriteTime>2023-10-12T06:12:53.751062Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>19_ImportColoumnDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T06:47:49.8576075Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>20_MergeJoinDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T07:19:11.0182992Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>21_JoinDemoWithoutMerge.dtsx</Name>
+      <LastWriteTime>2023-10-12T09:56:37.5789512Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>22_LookupDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T09:56:37.5473053Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>26_CacheTransformationDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T11:21:44.0563505Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>27_handsowntask.dtsx</Name>
+      <LastWriteTime>2023-10-12T10:32:09.0390465Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>28_handsowntask2.dtsx</Name>
+      <LastWriteTime>2023-10-12T10:48:58.4319776Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>29_lookuptask.dtsx</Name>
+      <LastWriteTime>2023-10-12T11:21:19.7116856Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>20_FuzzyLookupDemo.dtsx</Name>
+      <LastWriteTime>2023-10-12T12:20:20.044602Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
